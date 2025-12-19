@@ -1,0 +1,25 @@
+name: Request repository access for Incident TriageOps
+about: Submit an access request for this repository for issue assignments work reliably on auto-generated downtime incident issues.
+title: "[access request] @your-username write access permissions for the repo"
+assignees:
+  - ajhalili2006
+body:
+  - type: checkboes
+    attributes:
+      labels: Pre-flight checks
+      description: This form is for Hack Clubbers who are not yet received an organization invite to the @hackclub-community GitHub organization. If you have already accepted the organization invite, please do not fill out this form since issue assignments by Upptime should work.
+      options:
+        - label: "Yes, I confirm that I am not currently a member of the @hackclub-community organization."
+          required: true
+  - type: input
+    id: user_id
+    attributes:
+      label: Hack Club Slack or Auth user ID
+      description: Please provide either your Slack user ID or Hack Club Auth user ID to verify your identity.
+      placeholder: U012345678 or ident!aBcDeF
+    validations:
+      required: true
+  - type: textbox
+    attributes:
+      label: Have you run any services or apps for the Hack Club Community or plan to do so?
+      description: If so, provide links to the respective repositories or a brief description of your plans. This help us grant you appropriate access more easily.

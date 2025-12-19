@@ -1,8 +1,9 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Feature requests and ideas
-    url: https://github.com/orgs/upptime/discussions/new?category=ideas
-    about: Suggest an idea for this project
-  - name: Questions
-    url: https://github.com/orgs/upptime/discussions/new?category=q-a
-    about: Please ask and answer questions here
+  - name: Upptime Docs
+    url: https://upptime.js.org
+    about: Looking for the docs? Go there.
+  - name: Filing a issue for the community projects organization in general?
+    url: https://github.com/hackclub-community/meta
+    about: |
+      Please direct meta questions relating to this GitHub organization there (or ask in the #community Slack channel).
