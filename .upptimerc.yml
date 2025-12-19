@@ -5,14 +5,27 @@ user-agent: "status.hackclub.community (repo: https://github.com/hackclub-commun
 skipDeleteIssues: true
 
 sites:
+  # Service Repo/Website: https://github.com/hackclub/auth
+  # Primary maintainer: https://github.com/24c02 / https://hackclub.enterprise.slack.com/team/U09ULFV88KU
   - name: Hack Club Accounts / Auth
     url: https://auth.hackclub.com/.well-known/openid-configuration
     slug: auth
+
+  # Service Repo/Website: https://gitlab.com/recaptime-dev/infra/knot-server-docker
+  # Primary maintainer: https://gitlab.com/ajhalili2006 / https://hackclub.enterprise.slack.com/team/U07CAPBB9B5
   - name: Community Knot server for Tangled
     url: https://knot.hackclub.community
     slug: tangled-knotserver
     assignees:
     - ajhalili2006
+
+  # Service Repo/Website: https://github.com/taciturnaxolotl/cachet
+  # Primary maintainer: https://github.com/taciturnaxolotl / https://hackclub.enterprise.slack.com/team/U062UG485EE
+  - name: Cachet
+    url: https://cachet.dunkirk.sh/health
+    slug: cachet
+    assignees:
+    - taciturnaxolotl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
