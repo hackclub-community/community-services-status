@@ -6,7 +6,7 @@ assignees:
 body:
   - type: checkboxes
     attributes:
-      labels: Pre-flight checks
+      label: Pre-flight checks
       description: This form is for Hack Clubbers who are not yet received an organization invite to the @hackclub-community GitHub organization. If you have already accepted the organization invite, please do not fill out this form since issue assignments by Upptime should work.
       options:
         - label: "Yes, I confirm that I am not currently a member of the @hackclub-community organization."
