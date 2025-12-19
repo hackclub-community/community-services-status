@@ -23,16 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/knot.hackclub.community.ico",
     "slug": "tangled-knotserver",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "12.43%",
+    "uptimeDay": "12.43%",
+    "uptimeWeek": "12.43%",
+    "uptimeMonth": "12.43%",
+    "uptimeYear": "12.43%",
     "time": 1014,
     "timeDay": 1014,
     "timeWeek": 1014,
     "timeMonth": 1014,
     "timeYear": 1014,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-19": 0
+    }
   }
 ]
