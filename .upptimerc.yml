@@ -11,7 +11,8 @@ sites:
   - name: Community Knot server for Tangled
     url: https://knot.hackclub.community
     slug: tangled-knotserver
-    assignees: [ajhalili2006]
+    assignees:
+    - ajhalili2006
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,6 +30,16 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Nest status
       href: https://status.hackclub.com
+
+# disable these updates to avoid overrides
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+# tweak commit message template and author metadata
+commitMessages:
+  commitAuthorName: Hack Club Community Operations Bot
+  commitAuthorEmail: 237746918+hackclub-community-ops@users.noreply.github.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
