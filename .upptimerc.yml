@@ -41,5 +41,16 @@ commitMessages:
   commitAuthorName: Hack Club Community Operations Bot
   commitAuthorEmail: 237746918+hackclub-community-ops@users.noreply.github.com
 
+# more tweaking hell
+delay: 5000 # 5 seconds
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/15 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
