@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 391,
-    "timeWeek": 391,
-    "timeMonth": 391,
-    "timeYear": 391,
+    "time": 430,
+    "timeDay": 430,
+    "timeWeek": 430,
+    "timeMonth": 430,
+    "timeYear": 430,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/knot.hackclub.community.ico",
     "slug": "tangled-knotserver",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
-    "time": 884,
-    "timeDay": 884,
-    "timeWeek": 884,
-    "timeMonth": 884,
-    "timeYear": 884,
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
+    "time": 851,
+    "timeDay": 851,
+    "timeWeek": 851,
+    "timeMonth": 851,
+    "timeYear": 851,
     "dailyMinutesDown": {
-      "2025-12-19": 8
+      "2025-12-19": 22
     }
   }
 ]
