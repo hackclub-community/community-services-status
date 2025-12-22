@@ -1,7 +1,7 @@
 url: https://auth.hackclub.com/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 1501
-lastUpdated: 2025-12-21T23:09:17.783Z
+responseTime: 105
+lastUpdated: 2025-12-22T23:09:44.756Z
 startTime: 2025-12-19T07:28:22.863Z
 generator: Upptime <https://github.com/upptime/upptime>
