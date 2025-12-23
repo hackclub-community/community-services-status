@@ -19,6 +19,14 @@ sites:
     assignees:
     - ajhalili2006
 
+  # Service Repo/Website: https://github.com/justdanielndev/wrapped-oss
+  # Primary maintainer: https://github.com/justdanielndev / https://hackclub.enterprise.slack.com/team/U08T4JQJRJA
+  - name: Hack Club Wrapped
+    url: https://wrapped.isitzoe.dev
+    slug: wrapped
+    assignees:
+    - justdanielndev
+
   # Service Repo/Website: https://github.com/taciturnaxolotl/cachet
   # Primary maintainer: https://github.com/taciturnaxolotl / https://hackclub.enterprise.slack.com/team/U062UG485EE
   - name: Cachet
