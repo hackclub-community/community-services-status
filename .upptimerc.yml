@@ -8,7 +8,7 @@ sites:
   # Service Repo/Website: https://github.com/hackclub/auth
   # Primary maintainer: https://github.com/24c02 / https://hackclub.enterprise.slack.com/team/U09ULFV88KU
   - name: Hack Club Accounts / Auth
-    url: https://auth.hackclub.com/.well-known/openid-configuration
+    url: https://auth.hackclub.com/up
     slug: auth
 
   # Service Repo/Website: https://github.com/hackclub/hcb
