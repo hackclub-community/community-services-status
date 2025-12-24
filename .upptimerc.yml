@@ -11,6 +11,23 @@ sites:
     url: https://auth.hackclub.com/.well-known/openid-configuration
     slug: auth
 
+  # Service Repo/Website: https://github.com/hackclub/hcb
+  # Primary maintainer: TBD
+  - name: HCB
+    url: https://hcb.hackclub.com/up
+
+  # Service Repo/Website: https://github.com/hackclub/hackatime
+  # Primary maintainer: TBD
+  - name: Hackatime
+    url: https://hackatime.hackclub.com/up
+
+  # Service Repo/Website: https://github.com/hackclub/hackatime-legacy
+  # Primary maintainer: https://github.com/taciturnaxolotl / https://hackclub.enterprise.slack.com/team/U062UG485EE
+  - name: Hackatime Legacy
+    url: https://waka.hackclub.com/api/health
+    assignees:
+    - taciturnaxolotl
+
   # Service Repo/Website: https://gitlab.com/recaptime-dev/infra/knot-server-docker
   # Primary maintainer: https://gitlab.com/ajhalili2006 / https://hackclub.enterprise.slack.com/team/U07CAPBB9B5
   - name: Community Knot server for Tangled
