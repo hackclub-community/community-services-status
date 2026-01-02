@@ -92,7 +92,7 @@
     "timeMonth": 1266,
     "timeYear": 1266,
     "dailyMinutesDown": {
-      "2026-01-02": 63,
+      "2026-01-02": 70,
       "2026-01-01": 1440,
       "2025-12-31": 1422,
       "2025-12-30": 1440,
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wrapped.isitzoe.dev.ico",
     "slug": "wrapped",
     "status": "down",
-    "uptime": "24.34%",
+    "uptime": "24.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.94%",
-    "uptimeMonth": "24.34%",
-    "uptimeYear": "24.34%",
+    "uptimeWeek": "3.87%",
+    "uptimeMonth": "24.32%",
+    "uptimeYear": "24.32%",
     "time": 266,
     "timeDay": 136,
     "timeWeek": 117,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2026-01-02": 63,
+      "2026-01-02": 70,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -141,9 +141,9 @@
     "url": "https://cachet.dunkirk.sh/health",
     "icon": "https://icons.duckduckgo.com/ip3/cachet.dunkirk.sh.ico",
     "slug": "cachet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,6 +152,8 @@
     "timeWeek": 293,
     "timeMonth": 344,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-02": 0
+    }
   }
 ]
