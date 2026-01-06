@@ -84,7 +84,7 @@ delay: 5000 # 5 seconds
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
+  staticSite: "* */1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
