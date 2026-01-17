@@ -1,7 +1,7 @@
 url: https://hackatime.hackclub.com/up
-status: up
-code: 200
-responseTime: 277
-lastUpdated: 2026-01-17T22:13:25.539Z
+status: down
+code: 503
+responseTime: 364
+lastUpdated: 2026-01-17T22:35:01.695Z
 startTime: 2025-12-24T03:54:46.076Z
 generator: Upptime <https://github.com/upptime/upptime>
