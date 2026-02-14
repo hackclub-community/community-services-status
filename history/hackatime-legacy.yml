@@ -1,7 +1,7 @@
 url: https://waka.hackclub.com/api/health
-status: up
-code: 200
-responseTime: 484
-lastUpdated: 2026-02-13T23:19:58.477Z
+status: down
+code: 521
+responseTime: 463
+lastUpdated: 2026-02-14T06:05:02.222Z
 startTime: 2025-12-24T03:54:51.837Z
 generator: Upptime <https://github.com/upptime/upptime>
