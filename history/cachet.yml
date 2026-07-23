@@ -1,7 +1,7 @@
 url: https://cachet.dunkirk.sh/health
-status: up
-code: 200
-responseTime: 135
-lastUpdated: 2026-07-22T23:52:35.784Z
+status: down
+code: 521
+responseTime: 105
+lastUpdated: 2026-07-23T20:43:29.141Z
 startTime: 2025-12-19T11:53:34.111Z
 generator: Upptime <https://github.com/upptime/upptime>
