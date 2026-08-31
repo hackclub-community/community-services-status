@@ -30,11 +30,11 @@ sites:
 
   # Service Repo/Website: https://gitlab.com/recaptime-dev/infra/knot-server-docker
   # Primary maintainer: https://gitlab.com/ajhalili2006 / https://hackclub.enterprise.slack.com/team/U07CAPBB9B5
-  - name: Community Knot server for Tangled
-    url: https://knot.hackclub.community
-    slug: tangled-knotserver
-    assignees:
-    - ajhalili2006
+  #- name: Community Knot server for Tangled
+  #  url: https://knot.hackclub.community
+  #  slug: tangled-knotserver
+  #  assignees:
+  #  - ajhalili2006
 
   # Service Repo/Website: https://github.com/justdanielndev/wrapped-oss
   # Primary maintainer: https://github.com/justdanielndev / https://hackclub.enterprise.slack.com/team/U08T4JQJRJA
