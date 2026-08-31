@@ -39,7 +39,7 @@ sites:
   # Service Repo/Website: https://github.com/justdanielndev/wrapped-oss
   # Primary maintainer: https://github.com/justdanielndev / https://hackclub.enterprise.slack.com/team/U08T4JQJRJA
   - name: Hack Club Wrapped
-    url: https://wrapped.isitzoe.dev
+    url: https://wrapped.negrenavarro.me
     slug: wrapped
     assignees:
     - justdanielndev
